@@ -1,0 +1,24 @@
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.AssemblyReference.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.AssemblyReference.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.AssemblyReference.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.CoreCompileInputs.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Entidades_de_Negocio_BE\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.AssemblyReference.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.csproj.CoreCompileInputs.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Entidades_de_Negocio_BE\obj\Debug\Entidades_de_Negocio_BE.pdb

@@ -1,0 +1,11 @@
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.AssemblyReference.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.SuggestedBindingRedirects.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Form1.resources
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb

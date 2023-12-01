@@ -1,0 +1,87 @@
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Form2.resources
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.btnListaReservas.resources
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Form3.resources
+C:\Users\dai_c\Documents\Visual Studio 2022\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Form4.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\Hoteleria.btnListaReservas.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\Hoteleria.Form2.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\Hoteleria.Form3.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\Hoteleria.Form4.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\IU.csproj.CopyComplete
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.btnListaReservas.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.Form2.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.Form3.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.btnListaReservas.resources
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.Form2.resources
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Capa_Datos_CD.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Hoteleria\bin\Debug\Capa_Datos_CD.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Capa_Datos_CD.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\bin\Debug\Capa_Datos_CD.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\Hoteleria.btnListaReservas.resources
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\Hoteleria.Form2.resources
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Hoteleria\obj\Debug\Hoteleria.pdb

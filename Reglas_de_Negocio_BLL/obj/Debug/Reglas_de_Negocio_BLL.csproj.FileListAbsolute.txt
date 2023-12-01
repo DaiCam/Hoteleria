@@ -1,0 +1,40 @@
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.AssemblyReference.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CopyComplete
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.AssemblyReference.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CopyComplete
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\dai_c\Desktop\Hotel\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Capa_Datos_CD.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Capa_Datos_CD.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.AssemblyReference.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CopyComplete
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia\Hoteleria3capas - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\bin\Debug\Reglas_de_Negocio_BLL.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\bin\Debug\Capa_Datos_CD.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\bin\Debug\Capa_Datos_CD.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\bin\Debug\Entidades_de_Negocio_BE.pdb
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.AssemblyReference.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.csproj.CopyComplete
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.dll
+C:\Users\Dai\Desktop\Hoteleria3capas - copia - copia\Reglas_de_Negocio_BLL\obj\Debug\Reglas_de_Negocio_BLL.pdb
